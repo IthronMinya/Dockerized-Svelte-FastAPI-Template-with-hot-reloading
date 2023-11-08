@@ -1,2 +1,10 @@
-# Dockerized-Svelte-FastAPI-Template-with-hot-reloading
- Dockerized Svelte+FastAPI Development Template with hot reloading for the uvicorn server and Svelte
+# Dockerized Svelete+FastAPI 
+# A Dockerized Template for a Svelete+FastAPI Project with functioning hot reloading
+
+## Initialization:
+
+``docker compose up --build``
+
+## Run:
+
+``docker compose up``
